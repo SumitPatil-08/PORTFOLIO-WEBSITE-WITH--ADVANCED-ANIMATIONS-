@@ -22,6 +22,8 @@ Staggered animations for project cards and scroll-triggered transitions for dyna
 Elastic and easing effects for buttons, adding a professional touch.
 The site’s responsive design ensures compatibility across devices. The inclusion of Three.js prepares for future 3D visual enhancements. This portfolio is a great starting point for showcasing skills and projects in a modern, user-friendly format.
 
+**output**: ![Screenshot 2025-01-15 120557](https://github.com/user-attachments/assets/47cee740-6b0f-4c32-ba9a-50f0f915ef0f)
+
 
 
 
